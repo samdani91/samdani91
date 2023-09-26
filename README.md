@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdani91&label=Profile%20views&color=0e75b6&style=flat" alt="samdani91" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdani91" alt="samdani91" /></a> </p>
 
 - 📫 How to reach me **samdanimozumder91@gmail.com**
 
