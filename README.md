@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="370" height="270" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samdani1412&theme=dark)](https://codeforces.com/profile/samdani1412)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samdani333&theme=dark)](https://codeforces.com/profile/samdani333)
 <br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samdani1412)
 <br>
