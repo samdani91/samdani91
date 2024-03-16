@@ -15,6 +15,9 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samdani333&theme=dark)](https://codeforces.com/profile/samdani333)
 <br>
+<br>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samdani1412&theme=dark)](https://codeforces.com/profile/samdani1412)
+<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samdani1412)
 <br>
 <p align="left">
