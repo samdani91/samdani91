@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Competitive+Programmer;Learing+DSA+and+Mern;Software+Engineering+Undergraduate+at+IIT+DU;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=CTF+Player;Competitive+Programmer;Learing+DSA+and+Mern;Software+Engineering+Undergraduate+at+IIT+DU;"></a>
 </p>
 
 
@@ -18,6 +18,8 @@
     src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 </div>
 
+<br>
+
 <!-- Codeforces Profiles in Next Row -->
 <div align="center">
   <a href="https://codeforces.com/profile/samdani333">
@@ -27,6 +29,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=samdani1412&theme=dark" alt="Codeforces samdani1412" />
   </a>
 </div>
+ <br>
 
 <!-- Centered LeetCode Stats -->
 <div align="center">
