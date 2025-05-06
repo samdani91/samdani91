@@ -14,7 +14,7 @@
 
 <!-- Centered GIF -->
 <div align="center">
-  <img alt="Coding" width="370" height="270"
+  <img alt="Coding" width="500" height="370"
     src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 </div>
 
@@ -28,7 +28,13 @@
   </a>
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/samdani1412)
+<!-- Centered LeetCode Stats -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/samdani1412" alt="Leetcode Stats" />
+</div>
+
+
+
 <br>
 <p align="left">
     <a href="https://www.codechef.com/users/samdani1412" target="blank"><img align="center"
