@@ -12,15 +12,22 @@
 
  <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="Coding" width="370" height="270"
+<!-- Centered GIF -->
+<div align="center">
+  <img alt="Coding" width="370" height="270"
     src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+</div>
 
-[![Codeforces
-Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samdani333&theme=dark)](https://codeforces.com/profile/samdani333)
-<br>
-[![Codeforces
-Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samdani1412&theme=dark)](https://codeforces.com/profile/samdani1412)
-<br>
+<!-- Codeforces Profiles in Next Row -->
+<div align="center">
+  <a href="https://codeforces.com/profile/samdani333">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=samdani333&theme=dark" alt="Codeforces samdani333" />
+  </a>
+  <a href="https://codeforces.com/profile/samdani1412">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=samdani1412&theme=dark" alt="Codeforces samdani1412" />
+  </a>
+</div>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samdani1412)
 <br>
 <p align="left">
